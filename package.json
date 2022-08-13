@@ -1,5 +1,5 @@
 {
-  "name": "ncurl",
+  "name": "nreq",
   "version": "1.0.0",
   "description": "node terminal curl",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ncurl": "./bin/ncurl.js"
+    "nreq": "./bin/nreq.js"
   },
   "keywords": [],
   "author": "",
